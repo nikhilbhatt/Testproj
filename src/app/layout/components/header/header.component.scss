@@ -45,3 +45,35 @@ $topnav-background-color: #222;
         }
     }
 }
+
+.text-size {
+    width: 100%;
+    max-width: 1000px;
+    box-sizing: border-box;
+}
+
+.mic-color {
+    color: #00ff00;
+}
+
+// .addMore {
+//     border: none;
+//     width: 32px;
+//     height: 32px;
+//     background-color: #eee;
+//     transition: all ease-in-out 0.2s;
+//     cursor: pointer;
+// }
+// .addMore:hover {
+//     border: 1px solid #888;
+//     background-color: #ddd;
+// }
+
+.cart-size {
+    width: 50%;
+    height: 50%;
+}
+.form-control-inline {
+    min-width: 100px;
+    width: 100%;
+}
